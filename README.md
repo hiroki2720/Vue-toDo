@@ -1,7 +1,7 @@
-# Vue 3 + Vite
+# 概要
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Vue.jsで作成したtoDoアプリ。
 
-## Recommended IDE Setup
+Vue.jsを学習する際にチュートリアルを見ながら作成。
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+アプリのURL：https://vue-to-hu95kfxnj-hiroki2720.vercel.app/　
