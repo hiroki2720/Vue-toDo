@@ -17,7 +17,7 @@ const addTodo = () => {
             v-model="todoRef"
             placeholder="+ TODOを入力" 
         />
-        <button class = "btn" v-on:click="addTodo">追加</button>
+        <button class = "btn" v-on:click="addTodo">追加!</button>
     </div>
 </template>
 
